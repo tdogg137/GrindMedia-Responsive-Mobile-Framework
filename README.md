@@ -26,3 +26,10 @@ Apples [Xcode](https://developer.apple.com/xcode/) includes an iOS Simulator tha
 
 ###Browser Based
 Chrome and Firefox all have native, or plugin supported, User Agent switching. There are tutorials out there which can explain how to change your user agent for the purpose of testing.
+
+##License
+- The GrindMedia Mobile Responsive Template, jQuery, LESS and the Font Awesome CSS and LESS are licensed under the [MIT License](http://opensource.org/licenses/mit-license.html)
+- Flexnav is licensed under the [WTFPL](http://www.wtfpl.net/)
+
+##Contact
+- Email: <jeff.mayfield@grindmedia.com>
